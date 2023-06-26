@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\WorkSpace\Github\DaiilyCodingProblem\C++\Day2\Day2\Source.cpp(6,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Day2.vcxproj -> D:\WorkSpace\Github\DaiilyCodingProblem\C++\Day2\x64\Debug\Day2.exe
